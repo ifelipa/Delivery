@@ -20,11 +20,12 @@ public class mainDelivery {
 			key++;
 		}
 		//ArrayList de los alergicos del pan rallado
-		ArrayList<Allergen> elementAlergPan = new ArrayList<Allergen>();
+		ArrayList<Allergen_v1> elementAlergPan = new ArrayList<Allergen_v1>();
 		
-		Ingredient panRallado = new Ingredient(3, 
-		"Gallo Breadcrumbs", "grams", 395, 71.98, 13.35, 5.3, 2, elementAlergPan);
-	}
+//		Ingredient_v1 panRallado = new Ingredient_v1(3, 
+//		"Gallo Breadcrumbs", "grams", 395, 71.98, 13.35, 5.3, 2, elementAlergPan);
+//	
+		}
 	
 
 }
